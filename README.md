@@ -11,3 +11,16 @@ Reservo los derechos del curso(tales como datos y pasos a seguir del documento) 
 
 --Imágenes del documento:
 
+<img width="755" alt="Captura de pantalla 2022-01-11 183047" src="https://user-images.githubusercontent.com/71859483/149044036-66df4c62-6d42-4bcb-b749-624fec2fcf37.png">
+
+<img width="390" alt="Captura de pantalla 2022-01-11 183145" src="https://user-images.githubusercontent.com/71859483/149044039-42e6b615-74c5-4a77-8090-bb6053ce9ae5.png">
+
+<img width="359" alt="Captura de pantalla 2022-01-11 183237" src="https://user-images.githubusercontent.com/71859483/149044043-2cfe9ec6-5d27-4647-9b6c-ca7a40518683.png">
+
+<img width="344" alt="Captura de pantalla 2022-01-11 183257" src="https://user-images.githubusercontent.com/71859483/149044048-4a0ebfff-287c-47df-883b-782f2b4dbee8.png">
+
+<img width="362" alt="Captura de pantalla 2022-01-11 183310" src="https://user-images.githubusercontent.com/71859483/149044053-4e6bb71e-da68-4302-9138-64c9b589913b.png">
+
+<img width="356" alt="Captura de pantalla 2022-01-11 183329" src="https://user-images.githubusercontent.com/71859483/149044058-5cae890e-8a74-4776-927c-3438570cd994.png">
+
+<img width="359" alt="Captura de pantalla 2022-01-11 183344" src="https://user-images.githubusercontent.com/71859483/149044066-74933008-3859-4bd8-a98e-de163ead59b9.png">
