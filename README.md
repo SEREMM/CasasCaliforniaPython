@@ -5,11 +5,14 @@ Data analysis to California houses, to find correlations and pssible relationshi
 
 Análisis de datos a las casas de California, para encontrar correlaciones y posibles relaciones o discrepancias en los datos.
 
+Created with JUPYTER LAB / Creado con JUPYTER LAB.
+Database EXCEL / Base de datos EXCEL.
+Programming language PYTHON / lenguaje de programnación PYTHON.
+
 I reserve the rights of the course (such as data and steps to follow in the document) to A2 Training, whose follow-up I did through YouTube.
+/Reservo los derechos del curso(tales como datos y pasos a seguir del documento) a A2 Capacitación, cuyo seguimiento lo hice por medio de YouTube.
 
-Reservo los derechos del curso(tales como datos y pasos a seguir del documento) a A2 Capacitación, cuyo seguimiento lo hice por medio de YouTube.
-
---Imágenes del documento:
+--Doc. images / Imágenes del documento:
 
 <img width="755" alt="Captura de pantalla 2022-01-11 183047" src="https://user-images.githubusercontent.com/71859483/149044036-66df4c62-6d42-4bcb-b749-624fec2fcf37.png">
 
